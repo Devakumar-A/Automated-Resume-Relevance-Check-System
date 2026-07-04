@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+docx2txt
+scikit-learn
+sentence-transformers
+pandas
+gdown
+fuzzywuzzy
+python-Levenshtein
